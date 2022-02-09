@@ -1,0 +1,1 @@
+clang++ -Wall -Wextra -Werror -Wshadow -Wno-shadow -fsanitize=address -g3 -std=c++98 main.cpp Warlock.cpp ASpell.cpp ATarget.cpp Fwoosh.cpp Dummy.cpp Fireball.cpp Polymorph.cpp BrickWall.cpp SpellBook.cpp TargetGenerator.cpp
